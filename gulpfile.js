@@ -1,4 +1,4 @@
-/*!
+gucd /*!
  * gulp
  * $ npm install gulp-autoprefixer gulp-minify-css gulp-jshint gulp-concat gulp-uglify gulp-imagemin gulp-notify gulp-rename gulp-livereload gulp-cache del gulp-html-replace gulp-connect --save-dev
  */
@@ -23,7 +23,7 @@ var gulp = require('gulp'),
 // Our task config
 var runList = [
     'styles',
-//    'images',
+    'images',
     'scripts',
     'html'
 ];
