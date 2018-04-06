@@ -2,20 +2,41 @@ body {
     background-color: rgb(242 242 242);
 }
 
+section#about-me {
+    background-color: rgb(242 242 242);
+}
+section#blobs {
+    background-color: rgb(242 242 242);
+}
+section#albums {
+    background-color: rgb(242 242 242);
+}
+section#stream {
+    background-color: rgb(242 242 242);
+}
+section#councilor-and-representatives {
+    background-color: rgb(242 242 242);
+}
+section#professional-details {
+    background-color: rgb(242 242 242)
+}
 h2  {
     font-family: verdana 'Times New Roman';
     font-size: 14px;
     font-style: bold;
+    color: #ffffff
 }
 
 h4  {
     font-family: verdana 'Times New Roman';
     font-size: 20px;
     font-style: normal;
+    color: #e98f08a1;
 }
 
  p {
      font-family: verdana 'Times New Roman';
-     font-size: 16px;
+     font-size: 12px;
      font-style: normal;
+     color: #666666
 }
